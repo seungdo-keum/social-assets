@@ -14,6 +14,12 @@ No HTML, document, slide, browser, PIL, canvas, or screenshot render was used.
 - `agents-handoff-is-product.png`
   - Prompt: `agents-handoff-is-product.prompt.md`
   - Intended use: Practiq posts about agent handoff design and human review.
+- `creative-volume-client-interpretation.png`
+  - Prompt: `creative-volume-client-interpretation.prompt.md`
+  - Intended use: volatile-channel Practiq posts about marketing agency AI and client interpretation.
+- `hr-ai-governance-before-autonomy.png`
+  - Prompt: `hr-ai-governance-before-autonomy.prompt.md`
+  - Intended use: volatile-channel Practiq posts about HR AI governance and human review.
 
 ## Source Context
 
@@ -22,4 +28,8 @@ No HTML, document, slide, browser, PIL, canvas, or screenshot render was used.
 - https://github.com/Open-Source-Legal/OpenContracts
 - https://github.com/activepieces/activepieces
 - https://crewai.com/open-source
+- https://www.iab.com/news/nearly-90-of-advertisers-will-use-gen-ai-to-build-video-ads/
+- https://agencyanalytics.com/company/newsroom/2025-marketing-agency-benchmarks-report
+- https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr
+- https://www.icims.com/company/newsroom/aiadoptionreport2026/
 - https://practiq.dev/
