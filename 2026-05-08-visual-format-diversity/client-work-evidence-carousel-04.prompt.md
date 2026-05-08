@@ -1,0 +1,3 @@
+# Prompt: client-work-evidence-carousel-04
+
+Create a 4:5 vertical professional Instagram carousel slide, slide 4 of 4, for boutique professional-service firm owners. Visual format: carousel-explainer. Exact headline text: "What to build around". Show four compact blocks with labels: "Source packet", "Review trail", "Client context", "Reusable memory". Add small footer text: "Practiq context: practiq.dev". Style: premium editorial business design, warm white background, ink black typography, restrained blue and muted green accents, subtle paper texture, no screenshots, no fake UI, no stock photo, no gradient blobs, no hard CTA. Large readable text, slide number "4/4" in corner. Domain-expert human tone, understated product context.

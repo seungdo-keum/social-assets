@@ -1,0 +1,3 @@
+# Prompt: client-work-evidence-carousel-01
+
+Create a 4:5 vertical professional Instagram carousel slide, slide 1 of 4, for North American boutique professional-service firm owners. Visual format: carousel-explainer. Exact headline text: "Client work needs an evidence layer". Small subtext: "AI can draft. Firms still need source, review, and delivery memory." Footer text: "Sources: Thomson Reuters 2026, McKinsey State of AI". Style: premium editorial business design, warm white background, ink black typography, restrained blue and muted green accents, subtle paper texture, no screenshots, no fake UI, no stock photo, no gradients blobs, no promotional CTA. Large readable text, slide number "1/4" in corner. Domain-expert human tone, not AI marketing.

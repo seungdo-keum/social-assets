@@ -1,0 +1,3 @@
+# Prompt: time-saved-not-capacity-source-receipt
+
+Create a 1:1 square business social image for X. Visual format: source-receipt, not a screenshot. Exact headline text: "Time saved is not capacity". Three small sections with labels: "SOURCE", "CLAIM", "IMPLICATION". Use these texts exactly: SOURCE: "Professional-services AI reports"; CLAIM: "AI reduces prep work first"; IMPLICATION: "Capacity appears only when review routing changes". Footer text: "Thomson Reuters 2026 | practiq.dev". Style: clean editorial research receipt, off-white background, black type, restrained blue rule lines, small paper-note details, no fake UI, no stock photo, no chart, no gradient blobs, no promotional CTA. Large readable text, human domain-expert tone.

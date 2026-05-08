@@ -1,0 +1,3 @@
+# Prompt: where-client-service-ai-breaks-scorecard
+
+Create a 16:9 professional LinkedIn/X business image. Visual format: scorecard-matrix. Exact title text: "Where client-service AI breaks". Matrix rows: "Accounting", "Legal", "HR", "Agency", "Consulting". Matrix columns: "Source", "Review", "Client handoff". Use simple scores: High, High, Medium, with varied placement; avoid tiny text. Add highlighted takeaway text: "The common constraint is traceability." Footer text: "Sources: TR, Clio, SHRM, IAB, AgencyAnalytics | practiq.dev". Style: premium editorial scorecard, warm white background, black text, muted blue grid, muted green highlight, no fake dashboard, no screenshot, no stock photo, no gradient blobs, no hard CTA. Large readable labels.

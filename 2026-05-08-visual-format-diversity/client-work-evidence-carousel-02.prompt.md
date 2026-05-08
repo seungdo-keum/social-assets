@@ -1,0 +1,3 @@
+# Prompt: client-work-evidence-carousel-02
+
+Create a 4:5 vertical professional Instagram carousel slide, slide 2 of 4, for boutique accounting, legal, HR, marketing, and consulting firms. Visual format: carousel-explainer. Exact headline text: "Five workflows that need trails". Show five numbered items with short labels only: "1 Intake", "2 Research", "3 Draft", "4 Review", "5 Delivery". Footer text: "Not more output. Better traceability." Style: premium editorial business design, warm white background, ink black typography, restrained blue and muted green accents, clean simple line icons, no screenshots, no fake UI, no stock photo, no gradient blobs, no promotional CTA. Large readable text, slide number "2/4" in corner. Domain-expert human tone.

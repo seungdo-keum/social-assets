@@ -1,0 +1,3 @@
+# Prompt: portals-become-memory-field-note
+
+Create a 1:1 square social image for Threads. Visual format: field-note. It should look like generated editorial notebook artwork, not a screenshot or real photo. Exact headline text: "Portals become memory first". Three handwritten-style but readable bullets: "1 Client context", "2 Source packet", "3 Review trail". Add small note: "Agentic comes later." Footer text: "practiq.dev". Style: human operator field note, warm off-white notebook paper, black ink, muted blue annotations, subtle green check marks, slightly imperfect but polished. No fake UI, no stock photo, no gradient blobs, no promotional CTA. Keep total text under 35 words.

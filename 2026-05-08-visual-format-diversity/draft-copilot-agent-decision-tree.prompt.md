@@ -1,0 +1,3 @@
+# Prompt: draft-copilot-agent-decision-tree
+
+Create a 4:5 vertical LinkedIn business image. Visual format: decision-tree. Exact title text: "Draft, copilot, or agent?". Make a simple branching decision tree with these exact branches: "Low risk + clear source -> Draft", "Needs judgment -> Copilot", "Repeatable handoff -> Agent", "No trail -> Do not automate". Footer text: "Workflow redesign before autonomy | practiq.dev". Style: premium professional editorial graphic, warm white background, black typography, muted blue branch lines, muted green endpoint markers, no fake UI, no screenshots, no stock photo, no gradient blobs, no promotional CTA. Large readable labels, domain-expert tone.
