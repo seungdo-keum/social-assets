@@ -1,0 +1,24 @@
+{
+  "series": "2026-05-08-review-design-weekly",
+  "generation_method": "codex-imagegen",
+  "created_at": "2026-05-08T09:16:00+09:00",
+  "policy": "No HTML, document, slide, browser screenshot, or local PIL/canvas render was used as the final image source.",
+  "github_repository": "seungdo-keum/social-assets",
+  "github_directory": "2026-05-08-review-design-weekly",
+  "assets": [
+    {
+      "id": "review-design-practiq",
+      "lane": "practiq",
+      "image": "images/review-design-practiq-genimage.png",
+      "prompt": "prompts/review-design-practiq.prompt.md",
+      "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/2026-05-08-review-design-weekly/review-design-practiq-genimage.png"
+    },
+    {
+      "id": "review-design-samgov",
+      "lane": "agent-for-samgov",
+      "image": "images/review-design-samgov-genimage.png",
+      "prompt": "prompts/review-design-samgov.prompt.md",
+      "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/2026-05-08-review-design-weekly/review-design-samgov-genimage.png"
+    }
+  ]
+}
