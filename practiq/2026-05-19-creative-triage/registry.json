@@ -1,0 +1,342 @@
+[
+  {
+    "id": "practiq-product-image-001-docx-redline-demo",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "cross-vertical",
+    "scenario": "demo-output",
+    "format": "product-screen-proof-card",
+    "hook": "A demo should end in a file, not a promise",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-001-docx-redline-demo.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-001-docx-redline-demo.prompt.md",
+    "bytes": 112942,
+    "sha256": "4d132d3a037b4ef14291c6658c280396d6257c93c22b268f2820fd6dd67483cb",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption",
+      "works across accounting, legal, HR, consulting, and agency lanes"
+    ],
+    "selection_rank": 1,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-001-docx-redline-demo.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-001-docx-redline-demo.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-002-client-memory-panel",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "agency",
+    "scenario": "client-context",
+    "format": "ui-panel-explainer",
+    "hook": "The missing feature is client memory",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-002-client-memory-panel.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-002-client-memory-panel.prompt.md",
+    "bytes": 110178,
+    "sha256": "0e242f24236b03b42b27ee5d471d5833af92f69d9694f9b57e7f3d078d6d43fb",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 2,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-002-client-memory-panel.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-002-client-memory-panel.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-003-source-trail-view",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "legal",
+    "scenario": "source-trail",
+    "format": "workflow-screen-map",
+    "hook": "AI work needs a source trail",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-003-source-trail-view.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-003-source-trail-view.prompt.md",
+    "bytes": 111130,
+    "sha256": "ff613ace912ce1e56e2098ad6fb7510938195d944d41ac2e86d84b4b069c4dbe",
+    "dimensions": {
+      "width": 1600,
+      "height": 900,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 3,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-003-source-trail-view.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-003-source-trail-view.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-004-review-state-board",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "consulting",
+    "scenario": "review-state",
+    "format": "status-board-card",
+    "hook": "Review state is the real workflow",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-004-review-state-board.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-004-review-state-board.prompt.md",
+    "bytes": 112597,
+    "sha256": "4875ed3f2af6cd1ffd8f3644932d202191db9e967a77cbabebe54d90250d3736",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 4,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-004-review-state-board.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-004-review-state-board.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-005-one-document-trial",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "accounting",
+    "scenario": "no-signup-demo",
+    "format": "trial-flow-card",
+    "hook": "One document is enough to test the wedge",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-005-one-document-trial.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-005-one-document-trial.prompt.md",
+    "bytes": 108354,
+    "sha256": "345c130a55a901e4e1f71cb594a5a741eb05775af5de24c536210e5d0a493d3e",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 5,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-005-one-document-trial.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-005-one-document-trial.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-006-no-seat-pricing",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "cross-vertical",
+    "scenario": "pricing",
+    "format": "pricing-screen-card",
+    "hook": "Price by clients served, not seats added",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-006-no-seat-pricing.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-006-no-seat-pricing.prompt.md",
+    "bytes": 118047,
+    "sha256": "7f0e6367d9197d45b8d698165dd15807226053d0694442e5e7068063cf5b45fc",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption",
+      "works across accounting, legal, HR, consulting, and agency lanes"
+    ],
+    "selection_rank": 6,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-006-no-seat-pricing.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-006-no-seat-pricing.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-007-agency-approval-queue",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "agency",
+    "scenario": "approval-queue",
+    "format": "approval-flow-card",
+    "hook": "AI can move the bottleneck into approvals",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-007-agency-approval-queue.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-007-agency-approval-queue.prompt.md",
+    "bytes": 118104,
+    "sha256": "2730b9488a580803576db3addfb5df428949b1e83b457642a02264767a86e145",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 7,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-007-agency-approval-queue.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-007-agency-approval-queue.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-010-consulting-deliverable-handoff",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "consulting",
+    "scenario": "handoff",
+    "format": "handoff-screen-card",
+    "hook": "Client-ready means the next person can understand it",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-010-consulting-deliverable-handoff.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-010-consulting-deliverable-handoff.prompt.md",
+    "bytes": 120469,
+    "sha256": "a8f04a4d0d26003b946c24ae7eda3eb16722c6770f6c88283a157195e43f863f",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 8,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-010-consulting-deliverable-handoff.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-010-consulting-deliverable-handoff.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-012-workflow-audit",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "cross-vertical",
+    "scenario": "workflow-audit",
+    "format": "audit-report-card",
+    "hook": "Before buying AI, audit the workflow",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-012-workflow-audit.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-012-workflow-audit.prompt.md",
+    "bytes": 120851,
+    "sha256": "bb6266f04d48c83cfba9657395dcea6775b6707a773bd2f533eab15f39916b04",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption",
+      "works across accounting, legal, HR, consulting, and agency lanes"
+    ],
+    "selection_rank": 9,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-012-workflow-audit.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-012-workflow-audit.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-014-client-folder",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "agency",
+    "scenario": "client-folder",
+    "format": "client-folder-card",
+    "hook": "A client folder beats a better prompt",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-014-client-folder.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-014-client-folder.prompt.md",
+    "bytes": 102781,
+    "sha256": "3b6c56ec6ecf23374c8be444468f0572be815348851e9910dc6317b863a03f8b",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 10,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-014-client-folder.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-014-client-folder.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-018-client-ready-check",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "accounting",
+    "scenario": "client-ready",
+    "format": "checklist-screen-card",
+    "hook": "Client-ready is a checklist, not a vibe",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-018-client-ready-check.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-018-client-ready-check.prompt.md",
+    "bytes": 116774,
+    "sha256": "561f251236776cb691f6ac4f1c320db6285a3864cab4d2991b6321d46b8df412",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption"
+    ],
+    "selection_rank": 11,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-018-client-ready-check.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-018-client-ready-check.prompt.md"
+  },
+  {
+    "id": "practiq-product-image-020-demo-to-intake",
+    "source": "product",
+    "source_series": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets",
+    "asset_type": "image",
+    "domain": "cross-vertical",
+    "scenario": "conversion-flow",
+    "format": "conversion-flow-card",
+    "hook": "The clean path is demo first, conversation second",
+    "local_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/images/practiq-product-image-020-demo-to-intake.jpg",
+    "prompt_path": ".studio/distribution/content-series/2026-05-19-practiq-product-screen-assets/generated/prompts/practiq-product-image-020-demo-to-intake.prompt.md",
+    "bytes": 118213,
+    "sha256": "7d0d6dafe152fbecee78a9c1566776a3709d6519aaff6c7cb3439d58bf7bfa13",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "duration": 0.04
+    },
+    "grade": "A",
+    "recommended_use": "three_day_cross_platform_test",
+    "triage_reasons": [
+      "direct Practiq product/value proposition",
+      "simple hook that can be read without the caption",
+      "works across accounting, legal, HR, consulting, and agency lanes"
+    ],
+    "selection_rank": 12,
+    "public_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/images/practiq-product-image-020-demo-to-intake.jpg",
+    "public_prompt_url": "https://raw.githubusercontent.com/seungdo-keum/social-assets/main/practiq/2026-05-19-creative-triage/prompts/practiq-product-image-020-demo-to-intake.prompt.md"
+  }
+]
